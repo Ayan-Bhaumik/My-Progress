@@ -1,5 +1,3 @@
-Absolutely. Since you **don't want student names mentioned in the README**, here's a clean, final `README.md` focused on the repository rules, folder hierarchy, daily requirements, and Git workflow.
-
 ````markdown
 # 🚀 My Progress
 
