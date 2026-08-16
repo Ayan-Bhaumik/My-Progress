@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello World."<<endl;
-    return 0;
+    char marks ='A';
+cout<<marks<<endl;
+return 0;
 }
