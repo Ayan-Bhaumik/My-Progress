@@ -10,7 +10,7 @@ int main(){
     temp=*p;
     *p=*q;
     *q=temp;
-    printf("The value of the first number is:%d\n,a");
+    printf("The value of the first number is:%d\n",a);
     printf("The value of the Second number is:%d\n",b);
     return 0;
 }
