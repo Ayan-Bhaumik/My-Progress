@@ -10,5 +10,5 @@ int main(){
     else{
         cout<<"Not Eligible for Vote";
     }
-    return 0;
+    return 0;p
 }
