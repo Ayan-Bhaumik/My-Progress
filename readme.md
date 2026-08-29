@@ -1,4 +1,3 @@
-````markdown
 # 🚀 My Progress
 
 > **Learn • Practice • Build • Share • Grow**
