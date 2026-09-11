@@ -12,4 +12,5 @@ int main(){
     newnode->next=head;
     head=newnode;
     return 0;
+    printf("Linked list%d",head->data);
 }
